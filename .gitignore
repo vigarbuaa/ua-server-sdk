@@ -13,3 +13,7 @@
 **/target/*
 target/*
 **/dependency-reduced-pom.xml
+*.prefs
+*.project
+ua-server/.classpath
+*.classpath
